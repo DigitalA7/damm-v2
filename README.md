@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce dépôt propose un parcours documentaire en français consacré à Meteora DAMM V2 : configurations, positions NFT, liquidité concentrée, swaps, frais dynamiques, récompenses et verrouillages. Voir [le sommaire](docs/fr/README.md).
+
 # Meteora Constant Product AMM (DAMM v2)
 
 MCPA is a brand new AMM program of Meteora that includes almost all features from dynamic-amm v1 with new features:
